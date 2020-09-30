@@ -487,6 +487,10 @@ textarea[class='form-input'] {
     font-size: 24px;
     line-height: 29px;
     border: none;
+    transition: .6s;
+}
+.form-btn:hover{
+    background-color: #79d70b;
 }
 
 .form-content{
