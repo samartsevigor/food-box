@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dadab3b5-9726-49f6-9270-437ade7cb89c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hwkeUVHLyXypi5D83FOqYT1vjp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadab3b5-9726-49f6-9270-437ade7cb89c" name="Default Changelist" comment="" />
+      <created>1600929637963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600929637963</updated>
+      <workItem from="1600929639384" duration="17000" />
+      <workItem from="1600929660045" duration="769000" />
+      <workItem from="1600931405141" duration="1371000" />
+      <workItem from="1600933220916" duration="1805000" />
+      <workItem from="1600935090170" duration="1562000" />
+      <workItem from="1600937002097" duration="1619000" />
+      <workItem from="1600938837848" duration="1700000" />
+      <workItem from="1600940650382" duration="1591000" />
+      <workItem from="1600942512854" duration="8000" />
+      <workItem from="1601024440136" duration="1558000" />
+      <workItem from="1601026216789" duration="1593000" />
+      <workItem from="1601028027931" duration="1638000" />
+      <workItem from="1601029855257" duration="1684000" />
+      <workItem from="1601031668493" duration="719000" />
+      <workItem from="1601046295319" duration="6000" />
+      <workItem from="1601273745132" duration="1816000" />
+      <workItem from="1601275664112" duration="1708000" />
+      <workItem from="1601277563533" duration="1573000" />
+      <workItem from="1601279386673" duration="1654000" />
+      <workItem from="1601283074851" duration="1497000" />
+      <workItem from="1601284885246" duration="1296000" />
+      <workItem from="1601286702573" duration="1654000" />
+      <workItem from="1601288638025" duration="1683000" />
+      <workItem from="1601290449744" duration="968000" />
+      <workItem from="1601359522046" duration="425000" />
+      <workItem from="1601364404221" duration="563000" />
+      <workItem from="1601364980458" duration="1782000" />
+      <workItem from="1601366795447" duration="1609000" />
+      <workItem from="1601368630289" duration="1782000" />
+      <workItem from="1601370452652" duration="1548000" />
+      <workItem from="1601373963259" duration="1950000" />
+      <workItem from="1601446054125" duration="1290000" />
+      <workItem from="1601447954259" duration="345000" />
+      <workItem from="1601449782917" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="23" key="#HTML" timestamp="1601284712989">
+      <screen x="0" y="23" width="1024" height="685" />
+    </state>
+    <state x="415" y="23" key="#HTML/0.23.1024.685@0.23.1024.685" timestamp="1601284712989" />
+    <state x="0" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601275818727">
+      <screen x="0" y="23" width="1024" height="680" />
+    </state>
+    <state x="0" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1024.680@0.23.1024.680" timestamp="1601275818727" />
+  </component>
+</project>
